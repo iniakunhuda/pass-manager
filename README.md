@@ -175,6 +175,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Future Enhancements
 
+- [ ] Add dockerfile
 - [ ] Export to Desktop apps
 - [ ] Password strength meter
 - [ ] Export/Import functionality

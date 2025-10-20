@@ -1,6 +1,6 @@
 # Password Manager
 
-A secure password manager application built with FastAPI (Python) and React.js. This application allows users to safely store and manage their passwords with features like category organization, password generation, and secure master password authentication.
+A secure password manager application built with FastAPI (Python) and React.js. This application allows users to safely store and manage their passwords with features like category organization, password generation, and secure master password authentication. 
 
 ## Features
 
@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Future Enhancements
 
 - [ ] Add dockerfile
-- [ ] Export to Desktop apps
+- [ ] Make desktop app
 - [ ] Password strength meter
 - [ ] Export/Import functionality
 - [ ] Password sharing capabilities
